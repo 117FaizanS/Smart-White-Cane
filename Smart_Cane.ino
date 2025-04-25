@@ -4,8 +4,7 @@ const int echoPin = 9;
 const int buzzer = 10;
 const int switchPin = 2;
 
-// Variables to store ultrasonic sensor measurements and control buzzer
-response
+// Variables to store ultrasonic sensor measurements and control buzzer response
 long duration;
 float distanceCm;
 unsigned long previousMillis = 0;
